@@ -1,6 +1,6 @@
 # 🌋 Fuga Vulcânica
 
-Um jogo de tabuleiro interativo desenvolvido com Arduino Mega, LEDs, botões e telas LCD, onde os jogadores assumem o papel de dinossauros que precisam explorar uma ilha em erupção para recuperar artefatos perdidos antes que o tempo acabe.
+Um jogo de tabuleiro interativo desenvolvido com Arduino Mega, Linguagem C++, LEDs, botões e telas LCD, onde os jogadores assumem o papel de dinossauros que precisam explorar uma ilha em erupção para recuperar artefatos perdidos antes que o tempo acabe.
 
 ---
 
@@ -111,12 +111,16 @@ Durante a partida, os jogadores podem receber cartas que facilitam ou dificultam
 
 ## 👥 Equipe
 
-Adicione aqui os nomes dos integrantes do projeto.
-
-- Integrante 1
-- Integrante 2
-- Integrante 3
-- Integrante 4
+- Anna Elizabete
+- Beatriz Acioli
+- Bruna Rocha
+- Eraldo Neto
+- Guilherme Simões
+- Luiza Cabus
+- Manuela Brayner
+- Mateus Coutinho
+- Matheus Costa
+- Rafael Queiroz
 
 ---
 
@@ -126,9 +130,8 @@ Este projeto foi desenvolvido para fins educacionais.
 
 ---
 
-## 📸 Demonstração
+## 🏆 Reconhecimentos
 
-Adicione aqui imagens do tabuleiro, dos componentes eletrônicos e do funcionamento do jogo.
+- Indicação à Mostra Nacional de Robótica (MNR 2026).
 
-```html
-<img src="imagens/tabuleiro.jpg" width="600">
+
