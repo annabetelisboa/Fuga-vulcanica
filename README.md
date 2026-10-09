@@ -130,6 +130,12 @@ Este projeto foi desenvolvido para fins educacionais.
 
 ---
 
+## 📸 Imagens
+
+[Foto do tabuleiro](https://github.com/annabetelisboa/Fuga-vulcanica/blob/main/imagem.jpeg)
+
+---
+
 ## 🏆 Reconhecimentos
 
 - Indicação à Mostra Nacional de Robótica (MNR 2026).
