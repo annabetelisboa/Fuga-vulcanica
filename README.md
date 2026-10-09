@@ -130,7 +130,7 @@ Este projeto foi desenvolvido para fins educacionais.
 
 ---
 
-## 📸 Imagens
+## 📸 Imagens do tabuleiro
 
 [Foto do tabuleiro](https://github.com/annabetelisboa/Fuga-vulcanica/blob/main/imagem.jpeg)
 
